@@ -1,0 +1,52 @@
+{
+  "name": "Association pour la défense des droits sociaux de l'Outaouais",
+  "acronym": "ADDS Outaouais",
+  "website": "adds-outaouais.org",
+  "type": "OBNL (organisme à but non lucratif)",
+  "territory": "Région de l'Outaouais (Québec, Canada)",
+  "founded": "Années 1980–1990",
+  "size": "1 permanence + plusieurs membres, organisation autogérée",
+  "mission": "Mission plurielle — défense des droits, mobilisation collective et sensibilisation contre les causes de la pauvreté",
+  "domain": "Défense de droits, lutte contre les causes de la pauvreté",
+  "target_audience": [
+    "Personnes à faible revenu",
+    "Personnes sans logement stable",
+    "Personnes avec contraintes à l'emploi",
+    "Groupes communautaires et alliés"
+  ],
+  "actions": [
+    "Lobbying et représentation auprès des instances gouvernementales",
+    "Mobilisation citoyenne (rassemblements, campagnes)",
+    "Éducation populaire (ateliers, sensibilisation)"
+  ],
+  "governance": "Autogestion / démocratie directe",
+  "funding": [
+    "Fonds publics et subventions",
+    "Cotisations des membres",
+    "Dons privés"
+  ],
+  "values": [
+    "Justice sociale",
+    "Égalité",
+    "Solidarité",
+    "Dignité",
+    "Autonomie",
+    "Pouvoir d'agir (empowerment)",
+    "Participation citoyenne",
+    "Démocratie",
+    "Inclusion"
+  ],
+  "communication_tone": {
+    "internal_community": "Inclusif et communautaire",
+    "campaigns": "Militant et revendicateur",
+    "awareness_education": "Informatif et éducatif"
+  },
+  "challenges": "Mobilisation et rétention des membres",
+  "priorities_2025_2026": [
+    "Résistance aux coupes et à l'austérité",
+    "Lancement de nouvelles campagnes de mobilisation",
+    "Consolidation interne (structure et capacités)",
+    "Développement de partenariats avec d'autres organisations et réseaux"
+  ],
+  "digital_presence": "En développement numérique"
+}
